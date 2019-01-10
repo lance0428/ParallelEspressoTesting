@@ -1,3 +1,6 @@
+output.txt
+planOutput.txt
+results
 # Files for the Dalvik VM
 *.dex
 

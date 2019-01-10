@@ -1,0 +1,2 @@
+package=com.ldj.parallelespressotesting
+testInstrumentationRunner=androidx.test.runner.AndroidJUnitRunner
